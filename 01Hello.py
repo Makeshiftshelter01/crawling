@@ -98,3 +98,6 @@ x-=y
 5.
 x= 3
 print(x + 7 ==10)
+
+# merge 테스트 중!!!
+print(' merge 테스트 중!!!')
